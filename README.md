@@ -13,10 +13,12 @@ Third-year Computer Engineering student from Daund, Maharashtra. Passionate abou
 
 ## 🛠️ Tech Stack
 <div align="center">
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![DSA](https://img.shields.io/badge/LeetCode-FFA500?style=for-the-badge&logo=leetcode&logoColor=white)&nbsp;
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)&nbsp;
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org/)&nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA500?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Hoshang_147/)&nbsp;
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+
 </div>
 
 ## 🔥 Featured Projects
