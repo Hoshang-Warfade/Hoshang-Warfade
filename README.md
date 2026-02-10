@@ -5,7 +5,7 @@
 </div>
 
 ## 🚀 About Me
-Third-year Computer Engineering student from Daund, Maharashtra. Passionate about building scalable apps & solving complex problems.
+Third-year Computer Engineering student from Pune, Maharashtra. Passionate about building scalable apps & solving complex problems.
 
 - 🔭 **Currently**: Machine Learning projects + DSA on LeetCode  
 - ✅ **Core Skills**: Java (OOP, Collections, Exception Handling), OS, Software Engineering, Project Management, BIDA, Six Sigma Stats  
