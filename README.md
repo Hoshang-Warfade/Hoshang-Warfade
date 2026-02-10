@@ -12,24 +12,24 @@ Third-year Computer Engineering student from Daund, Maharashtra. Passionate abou
 - 💼 **Open for**: Software/ML/Data internships (2026)  
 
 ## 🛠️ Tech Stack
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![DSA](https://img.shields.io/badge/LeetCode-FFA500?style=for-the-badge&logo=leetcode&logoColor=white)
+<div align="center">
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![DSA](https://img.shields.io/badge/LeetCode-FFA500?style=for-the-badge&logo=leetcode&logoColor=white)&nbsp;
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+</div>
 
 ## 🔥 Featured Projects
 | Project | Description | Tech |
 |---------|-------------|------|
-| [Park-Mitra](https://github.com/Hoshang-Warfade/Park-Mitra) | Smart parking management system | Full-stack [cite:1] |
-| [EmployeeDeptVault](https://github.com/Hoshang-Warfade/EmployeeDeptVault) | Dept-wise employee CRUD w/ Java Collections | Java OOP [cite:5] |
-| [Bank System](https://github.com/Hoshang-Warfade/bank-project) | Banking sim w/ exceptions & persistence | Core Java [cite:7] |
+| [Park-Mitra](https://github.com/Hoshang-Warfade/Park-Mitra) | Smart parking management system | Full-stack 🚗 |
+| [EmployeeDeptVault](https://github.com/Hoshang-Warfade/EmployeeDeptVault) | Dept-wise employee CRUD w/ Java Collections | Java OOP 👥 |
+| [Bank System](https://github.com/Hoshang-Warfade/bank-project) | Banking sim w/ exceptions & persistence | Core Java 💳 |
 
 ## 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hoshang-warfade-2a77a928a/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA500?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Hoshang_147/)
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hoshangwarfade@gmail.com)
-
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=Hoshang-Warfade.Hoshang-Warfade)
 
 ---
 ⭐ Star this repo & follow for more updates!
