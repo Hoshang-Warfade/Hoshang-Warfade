@@ -26,7 +26,7 @@ Third-year Computer Engineering student from Pune, Maharashtra. Passionate about
 |---------|-------------|------|
 | [Park-Mitra](https://github.com/Hoshang-Warfade/Park-Mitra) | Smart parking management system | Full-stack 🚗 |
 | [EmployeeDeptVault](https://github.com/Hoshang-Warfade/EmployeeDeptVault) | Dept-wise employee CRUD w/ Java Collections | Java OOP 👥 |
-| [Bank System](https://github.com/Hoshang-Warfade/bank-project) | Banking sim w/ exceptions & persistence | Core Java 💳 |
+| [Bank System](https://github.com/Hoshang-Warfade/bank-project) | Banking System w/ exceptions & persistence | Core Java 💳 |
 
 ## 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hoshang-warfade-2a77a928a/)
